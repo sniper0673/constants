@@ -6,6 +6,7 @@ feather
 feather/
 feather/*
 
+# Byte-compiled / optimized / DLL files
 *.xlsx
 *.csv
 *.feather
